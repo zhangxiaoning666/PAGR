@@ -3,6 +3,7 @@ code for the paper ``Progressive Attention Guided Recurrent Network for Salient 
 
 The code is comming soon.
 
+Saliency maps of this paper can be downloaded at https://pan.baidu.com/s/1uLTO6dPmudd2RODjuXVE1Q password:bzii 
 ## Citation
 ```
 @inproceedings{zeng2018learning,
